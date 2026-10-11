@@ -1,4 +1,4 @@
-# IDS_706_DE_WK6: Introduction to Databases
+# IDS 706 - Data Engineering - Week 6 - Introduction to Databases
 
 ## Project Overview
 This project is dedicated to running queries on a table using SQLite. The data used for this project comes from the university_rankings table, which is stored in the university_database database. This table includes information from 2012-2015 about universities around the world, such as the country they are located in and their ranking against other institutions. We will start with CRUD (Create, Read, Update, Delete) queries, then perform some analysis on the data.
